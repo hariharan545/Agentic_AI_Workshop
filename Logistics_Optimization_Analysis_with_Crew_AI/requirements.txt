@@ -1,0 +1,15 @@
+# CrewAI Logistics Optimizer - Python 3.10.11 Compatible
+# Core CrewAI Framework
+crewai>=0.98.0
+
+# Streamlit & UI
+streamlit>=1.35.0
+
+# Utilities
+python-dotenv>=1.0.1
+
+# Google AI
+google-generativeai>=0.3.0
+
+# Optional but recommended for better performance
+tiktoken>=0.7.0
