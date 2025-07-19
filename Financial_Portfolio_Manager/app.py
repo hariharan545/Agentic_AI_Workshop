@@ -175,3 +175,4 @@ if submit:
         except Exception as e:
             st.error(f"Error generating report: {str(e)}")
             st.info("Please check your inputs and try again. If the problem persists, try reducing the amount of text in your inputs.")
+       
